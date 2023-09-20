@@ -1,6 +1,6 @@
 # Fortinet
-  ## Sniffer
-  ## Debug
+  - Sniffer
+  - Debug
 
 # Linux
 
