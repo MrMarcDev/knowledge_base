@@ -5,5 +5,6 @@
 # Linux
 
 # Windows
-  ## LDAP
+  - LDAP
+  - CLI
   
